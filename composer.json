@@ -1,0 +1,19 @@
+{
+    "name": "amadeusd/class-method-chain",
+    "type": "library",
+    "description": "",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Amadeus",
+            "email": "amadeus.cmd@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "AmadeusD\\ClassMethodChain\\": "src/"
+        }
+    }
+}
